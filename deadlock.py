@@ -1,6 +1,4 @@
 # Parte 3 - Deadlock: reproducao e correcao
-# Matheus Murbach, Guilherme Mendonça, João Gabriel, Gustavo Arcanjelo
-
 import threading
 import time
 import sys

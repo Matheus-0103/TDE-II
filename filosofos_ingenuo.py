@@ -1,6 +1,4 @@
 # Parte 1 - Jantar dos Filosofos (versao INGENUA - entra em deadlock)
-# Matheus Murbach, Guilherme Mendonça, João Gabriel, Gustavo Arcanjelo
-
 import threading
 import time
 

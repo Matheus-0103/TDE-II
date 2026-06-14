@@ -3,7 +3,7 @@
 **Integrantes:** Matheus Murbach, Guilherme Ferreira, João Gabriel, Gustavo Arcanjelo  
 **Linguagem:** Python
 **Vídeo:** [link do YouTube aqui]
-**Repositório GitHub:** [link do repositorio]
+**Repositório GitHub:** [https://github.com/Matheus-0103/TDE-II.git]
 ---
 
 ## Parte 1 — Jantar dos Filósofos

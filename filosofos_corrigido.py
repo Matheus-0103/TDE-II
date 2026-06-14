@@ -1,6 +1,4 @@
 # Parte 1 - Jantar dos Filosofos (versao CORRIGIDA - hierarquia de recursos)
-# Matheus Murbach, Guilherme Mendonça, João Gabriel, Gustavo Arcanjelo
-
 import threading
 import time
 import random
