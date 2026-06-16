@@ -22,8 +22,6 @@ buf_inseguro = fazer_buf()
 
 def tarefa_sem_sync():
     for _ in range(M):
-        # leitura e escrita separadas: nao atomicas com o GIL
-        # outra thread pode escrever entre o ler() e o escrever()
         escrever(buf_inseguro, ler(buf_inseguro) + 1)
 
 def rodar_sem_sync():
