@@ -47,9 +47,7 @@ def tarefa_com_sem():
             escrever(buf_seguro, ler(buf_seguro) + 1)
         finally:
             sem.release()
-        # release() estabelece barreira de memoria implicita em Python:
-        # o valor atualizado e visivel para a proxima thread que fizer acquire()
-        # (equivalente ao happens-before do Java)
+       
 
 def rodar_com_sem():
     escrever(buf_seguro, 0)
