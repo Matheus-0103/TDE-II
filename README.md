@@ -9,6 +9,7 @@
 **Vídeo:** [https://youtu.be/9dpt8XlJLdY]
 
 **Repositório GitHub:** [https://github.com/Matheus-0103/TDE-II.git]
+
 ---
 
 ## Parte 1 — Jantar dos Filósofos
