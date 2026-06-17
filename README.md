@@ -181,4 +181,3 @@ liberar(LOCK_A)
 - https://en.wikipedia.org/wiki/Dining_philosophers_problem
 - https://en.wikipedia.org/wiki/Deadlock_(computer_science)
 - https://docs.python.org/3/library/threading.html
-- Silberschatz - Operating System Concepts cap. 8
