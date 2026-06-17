@@ -1,8 +1,13 @@
 # TDE — Filósofos, Semáforos e Deadlock
 
 **Integrantes:** Matheus Murbach, Guilherme Ferreira, João Gabriel, Gustavo Arcanjelo  
+
+**Grupo:** Grupo TDE 8
+
 **Linguagem:** Python
+
 **Vídeo:** [https://youtu.be/9dpt8XlJLdY]
+
 **Repositório GitHub:** [https://github.com/Matheus-0103/TDE-II.git]
 ---
 
