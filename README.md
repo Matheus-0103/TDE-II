@@ -2,7 +2,7 @@
 
 **Integrantes:** Matheus Murbach, Guilherme Ferreira, João Gabriel, Gustavo Arcanjelo  
 **Linguagem:** Python
-**Vídeo:** [https://youtu.be/O9H_sfobrCg]
+**Vídeo:** [https://youtu.be/9dpt8XlJLdY]
 **Repositório GitHub:** [https://github.com/Matheus-0103/TDE-II.git]
 ---
 
